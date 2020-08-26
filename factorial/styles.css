@@ -1,0 +1,35 @@
+/* begins center all content */
+
+html, body {
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+    display: table;
+    overflow: hidden;
+}
+
+#contenedor {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#contenido {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+/* end center all content */
+
+#result {
+    padding-top: 15px;
+}

@@ -1,0 +1,13 @@
+.container{
+    padding: 200px 200px;
+}
+
+#list{
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+img{
+    height: 25px;
+    width: 25px;
+}
